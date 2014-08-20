@@ -1,0 +1,5 @@
+rs.ac.bg.etf.aor2.simulator.SignalSimle	0	
+rs.ac.bg.etf.aor2.simulator.SignalSimle	1	
+rs.ac.bg.etf.aor2.simulator.SignalSimle	2	
+rs.ac.bg.etf.aor2.simulator.SignalSimle	3
+rs.ac.bg.etf.aor2.simulator.SignalSimle	4

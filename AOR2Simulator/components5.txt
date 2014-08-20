@@ -1,0 +1,7 @@
+rs.ac.bg.etf.aor2.mojindex.Register	0	4	IN	INC	CLK	LD
+rs.ac.bg.etf.aor2.mojindex.Register	1	4	IN	INC	CLK	LD
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	2	0	5
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	3	1	5
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	4	0	5
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	5	0	5
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	6	1	5

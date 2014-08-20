@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate" id="InGate0">
+    <void property="period">
+     <int>5</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>out0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="InGate0"/>
+        </void>
+        <void property="name">
+         <string>OUT0Signal0</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate" id="InGate1">
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="period">
+     <int>13</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>out0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="InGate1"/>
+        </void>
+        <void property="name">
+         <string>OUT0Signal0</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.NandGate" id="NandGate0">
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="numInputs">
+     <int>2</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>IN0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate0"/>
+        </void>
+        <void property="name">
+         <string>in0Signal0</string>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>IN1</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate0"/>
+        </void>
+        <void property="name">
+         <string>in1Signal0</string>
+        </void>
+        <void property="portNumber">
+         <int>1</int>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>OUT2</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate0"/>
+        </void>
+        <void property="name">
+         <string>out2Signal0</string>
+        </void>
+        <void property="portNumber">
+         <int>2</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.NandGate" id="NandGate1">
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="numInputs">
+     <int>2</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>IN0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate1"/>
+        </void>
+        <void property="name">
+         <string>in0Signal0</string>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>IN1</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate1"/>
+        </void>
+        <void property="name">
+         <string>in1Signal0</string>
+        </void>
+        <void property="portNumber">
+         <int>1</int>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>OUT2</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="NandGate1"/>
+        </void>
+        <void property="name">
+         <string>out2Signal0</string>
+        </void>
+        <void property="portNumber">
+         <int>2</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.OutGate" id="OutGate0">
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>in0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="OutGate0"/>
+        </void>
+        <void property="name">
+         <string>IN0Signal0</string>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.digitalcomponents.OutGate" id="OutGate1">
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="ports">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="rs.ac.bg.etf.aor2.simulator.PortSimple">
+        <void property="defaultValue">
+         <object class="rs.ac.bg.etf.aor2.simulator.DigitalValue"/>
+        </void>
+        <void property="inName">
+         <string>in0</string>
+        </void>
+        <void property="logicComponent">
+         <object idref="OutGate1"/>
+        </void>
+        <void property="name">
+         <string>IN0Signal0</string>
+        </void>
+        <void property="type">
+         <int>1</int>
+        </void>
+        <void property="value">
+         <void property="booleanValue">
+          <boolean>true</boolean>
+         </void>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

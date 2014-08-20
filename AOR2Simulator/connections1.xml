@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector"/>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector0">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector0"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector0"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector1">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector1"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector1"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector2">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector2"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector2"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portId</string>
+     <void method="set">
+      <object idref="Connector2"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector2"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector3">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector3"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector3"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portId</string>
+     <void method="set">
+      <object idref="Connector3"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector4">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector4"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector4"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector4"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector5">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector5"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector5"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector5"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector6">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector6"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector6"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portId</string>
+     <void method="set">
+      <object idref="Connector6"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector7">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector7"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector7"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector7"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="rs.ac.bg.etf.aor2.simulator.Connector" id="Connector8">
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>signalId</string>
+     <void method="set">
+      <object idref="Connector8"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>componentId</string>
+     <void method="set">
+      <object idref="Connector8"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portId</string>
+     <void method="set">
+      <object idref="Connector8"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="rs.ac.bg.etf.aor2.simulator.Connector" method="getField">
+     <string>portType</string>
+     <void method="set">
+      <object idref="Connector8"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

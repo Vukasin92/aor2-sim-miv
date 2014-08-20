@@ -1,0 +1,7 @@
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	0	10	10	490	10
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	1	10	40	490	40
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	2	10	70	490	70
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	3	10	100	490	100
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	0	10	130	120	40	
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	1	10	200	120	40
+rs.ac.bg.etf.aor2.simulator.gui.AndComponentPresentation	3	10	280	120	40

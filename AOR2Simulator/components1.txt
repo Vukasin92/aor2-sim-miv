@@ -1,0 +1,7 @@
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	0	0	5	
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.InGate	1	0	13	
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.NandGate	2	2	
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.NandGate	3	2	
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.OutGate	4	0	
+rs.ac.bg.etf.aor2.simulator.digitalcomponents.OutGate	5	1	
+//klasa	component id	broj ulaznih portova(za outgate i za ingate uvek staviti 0)	period(nebitno ovde)

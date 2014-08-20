@@ -1,0 +1,14 @@
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	0	10	10	490	10
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	1	10	40	490	40
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	2	10	55	490	55
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	3	10	70	490	70
+rs.ac.bg.etf.aor2.simulator.gui.SignalPresentation	4	10	85	490	85
+rs.ac.bg.etf.aor2.mojindex.MultiSignalPresentation	5	10	100	490	100
+rs.ac.bg.etf.aor2.mojindex.MultiSignalPresentation	6	10	115	490	115
+rs.ac.bg.etf.aor2.mojindex.RegisterComponentPresentation	0	10	130	120	50	
+rs.ac.bg.etf.aor2.mojindex.RegisterComponentPresentation	1	10	200	120	50
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	2	10	270	120	40
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	3	200	130	120	40
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	4	200	200	120	40
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	5	200	270	120	40
+rs.ac.bg.etf.aor2.simulator.gui.InComponentPresentation	6	400	270	120	40
